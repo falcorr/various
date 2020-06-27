@@ -1,0 +1,2 @@
+some.domain.com
+anotherdomain.net
