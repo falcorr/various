@@ -1,0 +1,3 @@
+C:\directory1
+C:\directory2
+C:\directory3
