@@ -1,109 +1,109 @@
 # Nintendo
 
-nintendo.com
-www.nintendo.com
-cdn.nintendo.com
-nintendo.net
-www.nintendo.net
-cdn.nintendo.net
-nintendo.jp
-www.nintendo.jp
-cdn.nintendo.jp
-nintendo.co.jp
-www.nintendo.co.jp
-cdn.nintendo.co.jp
-nintendo.co.uk
-www.nintendo.co.uk
-cdn.nintendo.co.uk
-nintendo-europe.com
-www.nintendo-europe.com
-cdn.nintendo-europe.com
-nintendowifi.net
-www.nintendowifi.net
-cdn.nintendowifi.net
-nintendo.es
-www.nintendo.es
-cdn.nintendo.es
-nintendo.co.kr
-www.nintendo.co.kr
-cdn.nintendo.co.kr
-nintendo.tw
-www.nintendo.tw
-cdn.nintendo.tw
-nintendo.com.hk
-www.nintendo.com.hk
-cdn.nintendo.com.hk
-nintendo.com.au
-www.nintendo.com.au
-cdn.nintendo.com.au
-nintendo.co.nz
-www.nintendo.co.nz
-cdn.nintendo.co.nz
-nintendo.at
-www.nintendo.at
-cdn.nintendo.at
-nintendo.be
-www.nintendo.be
-cdn.nintendo.be
-nintendods.cz
-www.nintendods.cz
-cdn.nintendods.cz
-nintendo.dk
-www.nintendo.dk
-cdn.nintendo.dk
-nintendo.de
-www.nintendo.de
-cdn.nintendo.de
-nintendo.fi
-www.nintendo.fi
-cdn.nintendo.fi
-nintendo.fr
-www.nintendo.fr
-cdn.nintendo.fr
-nintendo.gr
-www.nintendo.gr
-cdn.nintendo.gr
-nintendo.hu
-www.nintendo.hu
-cdn.nintendo.hu
-nintendo.it
-www.nintendo.it
-cdn.nintendo.it
-nintendo.nl
-www.nintendo.nl
-cdn.nintendo.nl
-nintendo.no
-www.nintendo.no
-cdn.nintendo.no
-nintendo.pt
-www.nintendo.pt
-cdn.nintendo.pt
-nintendo.ru
-www.nintendo.ru
-cdn.nintendo.ru
-nintendo.co.za
-www.nintendo.co.za
-cdn.nintendo.co.za
-nintendo.se
-www.nintendo.se
-cdn.nintendo.se
-nintendo.ch
-www.nintendo.ch
-cdn.nintendo.ch
-nintendoswitch.com
-www.nintendoswitch.com
-cdn.nintendoswitch.com
-nintendoswitch.com.cn
-www.nintendoswitch.com.cn
-cdn.nintendoswitch.com.cn
-nintendoswitch.cn
-www.nintendoswitch.cn
-cdn.nintendoswitch.cn
-conntest.nintendowifi.net
-conntest.nintendowifi.com
-conntest.nintendowifi.co.uk
-conntest.nintendowifi.co.jp
-ctest.cdn.nintendo.net
-ctest.cdn.nintendo.com
-ctest.cdn.nintendo.co.uk
-ctest.cdn.nintendo.co.jp
+0.0.0.0	nintendo.com
+0.0.0.0	www.nintendo.com
+0.0.0.0	cdn.nintendo.com
+0.0.0.0	nintendo.net
+0.0.0.0	www.nintendo.net
+0.0.0.0	cdn.nintendo.net
+0.0.0.0	nintendo.jp
+0.0.0.0	www.nintendo.jp
+0.0.0.0	cdn.nintendo.jp
+0.0.0.0	nintendo.co.jp
+0.0.0.0	www.nintendo.co.jp
+0.0.0.0	cdn.nintendo.co.jp
+0.0.0.0	nintendo.co.uk
+0.0.0.0	www.nintendo.co.uk
+0.0.0.0	cdn.nintendo.co.uk
+0.0.0.0	nintendo-europe.com
+0.0.0.0	www.nintendo-europe.com
+0.0.0.0	cdn.nintendo-europe.com
+0.0.0.0	nintendowifi.net
+0.0.0.0	www.nintendowifi.net
+0.0.0.0	cdn.nintendowifi.net
+0.0.0.0	nintendo.es
+0.0.0.0	www.nintendo.es
+0.0.0.0	cdn.nintendo.es
+0.0.0.0	nintendo.co.kr
+0.0.0.0	www.nintendo.co.kr
+0.0.0.0	cdn.nintendo.co.kr
+0.0.0.0	nintendo.tw
+0.0.0.0	www.nintendo.tw
+0.0.0.0	cdn.nintendo.tw
+0.0.0.0	nintendo.com.hk
+0.0.0.0	www.nintendo.com.hk
+0.0.0.0	cdn.nintendo.com.hk
+0.0.0.0	nintendo.com.au
+0.0.0.0	www.nintendo.com.au
+0.0.0.0	cdn.nintendo.com.au
+0.0.0.0	nintendo.co.nz
+0.0.0.0	www.nintendo.co.nz
+0.0.0.0	cdn.nintendo.co.nz
+0.0.0.0	nintendo.at
+0.0.0.0	www.nintendo.at
+0.0.0.0	cdn.nintendo.at
+0.0.0.0	nintendo.be
+0.0.0.0	www.nintendo.be
+0.0.0.0	cdn.nintendo.be
+0.0.0.0	nintendods.cz
+0.0.0.0	www.nintendods.cz
+0.0.0.0	cdn.nintendods.cz
+0.0.0.0	nintendo.dk
+0.0.0.0	www.nintendo.dk
+0.0.0.0	cdn.nintendo.dk
+0.0.0.0	nintendo.de
+0.0.0.0	www.nintendo.de
+0.0.0.0	cdn.nintendo.de
+0.0.0.0	nintendo.fi
+0.0.0.0	www.nintendo.fi
+0.0.0.0	cdn.nintendo.fi
+0.0.0.0	nintendo.fr
+0.0.0.0	www.nintendo.fr
+0.0.0.0	cdn.nintendo.fr
+0.0.0.0	nintendo.gr
+0.0.0.0	www.nintendo.gr
+0.0.0.0	cdn.nintendo.gr
+0.0.0.0	nintendo.hu
+0.0.0.0	www.nintendo.hu
+0.0.0.0	cdn.nintendo.hu
+0.0.0.0	nintendo.it
+0.0.0.0	www.nintendo.it
+0.0.0.0	cdn.nintendo.it
+0.0.0.0	nintendo.nl
+0.0.0.0	www.nintendo.nl
+0.0.0.0	cdn.nintendo.nl
+0.0.0.0	nintendo.no
+0.0.0.0	www.nintendo.no
+0.0.0.0	cdn.nintendo.no
+0.0.0.0	nintendo.pt
+0.0.0.0	www.nintendo.pt
+0.0.0.0	cdn.nintendo.pt
+0.0.0.0	nintendo.ru
+0.0.0.0	www.nintendo.ru
+0.0.0.0	cdn.nintendo.ru
+0.0.0.0	nintendo.co.za
+0.0.0.0	www.nintendo.co.za
+0.0.0.0	cdn.nintendo.co.za
+0.0.0.0	nintendo.se
+0.0.0.0	www.nintendo.se
+0.0.0.0	cdn.nintendo.se
+0.0.0.0	nintendo.ch
+0.0.0.0	www.nintendo.ch
+0.0.0.0	cdn.nintendo.ch
+0.0.0.0	nintendoswitch.com
+0.0.0.0	www.nintendoswitch.com
+0.0.0.0	cdn.nintendoswitch.com
+0.0.0.0	nintendoswitch.com.cn
+0.0.0.0	www.nintendoswitch.com.cn
+0.0.0.0	cdn.nintendoswitch.com.cn
+0.0.0.0	nintendoswitch.cn
+0.0.0.0	www.nintendoswitch.cn
+0.0.0.0	cdn.nintendoswitch.cn
+0.0.0.0	conntest.nintendowifi.net
+0.0.0.0	conntest.nintendowifi.com
+0.0.0.0	conntest.nintendowifi.co.uk
+0.0.0.0	conntest.nintendowifi.co.jp
+0.0.0.0	ctest.cdn.nintendo.net
+0.0.0.0	ctest.cdn.nintendo.com
+0.0.0.0	ctest.cdn.nintendo.co.uk
+0.0.0.0	ctest.cdn.nintendo.co.jp
